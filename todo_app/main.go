@@ -13,4 +13,5 @@ func main() {
 	fmt.Println(config.Config.LogFile)
 
 	log.Println("test")
+	fmt.Println("Hello")
 }
